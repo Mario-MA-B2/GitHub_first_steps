@@ -1,0 +1,8 @@
+{
+  "perplexity": {
+    "apiKey": "YOUR_API_KEY_HERE",
+    "enabled": true,
+    "model": "sonar-pro",
+    "timeout": 30000
+  }
+}
